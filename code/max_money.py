@@ -15,3 +15,4 @@ def max_money():
 
 
 print("Total BTC to ever be created:", max_money(), "Satoshis")
+cộng thêm đĩ mẹ mày nữa ra chẵn y vậy !!!!
